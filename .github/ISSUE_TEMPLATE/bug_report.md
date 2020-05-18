@@ -9,7 +9,7 @@ assignees: dmonad
 
 **Checklist**
 
-[ ] Are you reporting a bug? Use github issues for bug reports, and feature requests. For general questions please use https://discuss.yjs.dev/
+[ ] Are you reporting a bug? Use github issues for bug reports and feature requests. For general questions, please use https://discuss.yjs.dev/
 [ ] Try to report your issue in the correct repository. Yjs consists of many modules. When in doubt, report it to https://github.com/yjs/yjs/issues/
 
 **Describe the bug**
@@ -30,7 +30,7 @@ If applicable, add screenshots to help explain your problem.
 
 **Environment Information**
  - Browser / Node.js [e.g. Chrome, Firefox, Node.js]
- - Yjs version and the versions of the y-* modules you are using [Yjs v13.0.1, y-webrtc v1.0.0]
+ - Yjs version and the versions of the y-* modules you are using [e.g. Yjs v13.0.1, y-webrtc v1.0.0]
 
 **Additional context**
 Add any other context about the problem here.
