@@ -32,7 +32,7 @@ If applicable, add screenshots to help explain your problem.
 
 **Environment Information**
  - Browser / Node.js [e.g. Chrome, Firefox, Node.js]
- - Yjs version and the versions of the y-* modules you are using [e.g. Yjs v13.0.1, y-webrtc v1.0.0]
+ - Yjs version and the versions of the y-* modules you are using [e.g. yjs v13.0.1, y-webrtc v1.2.1]. Use `npm ls yjs` to find out the exact version you are using.
 
 **Additional context**
 Add any other context about the problem here.
